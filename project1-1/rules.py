@@ -73,3 +73,4 @@ class ParagraphRule(Rule):
 
     def condition(self, block):
         return True
+
